@@ -34,7 +34,7 @@ I blend **technical precision** with **creative problem-solving**, building ever
 | **Languages** | Solidity, JavaScript, Python, Bash |
 | **Frameworks** | Hardhat, Foundry, Express.js, Telethon |
 | **Frontend** | React, Tailwind, Ethers.js |
-| **Blockchain** | Ethereum, Polygon, BSC, Arbitrum, Solana |
+| **Blockchain** | EVM, SVM |
 | **Databases** | PostgreSQL, MongoDB |
 | **DevOps** | PM2, Nginx, Ubuntu Server |
 
