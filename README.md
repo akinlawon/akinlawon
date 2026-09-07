@@ -60,6 +60,4 @@ I blend **technical precision** with **creative problem-solving**, building ever
 ---
 ---
 
-<p align="center">
-   <i>"Code with precision. Automate with purpose. Build for impact."</i>
-</p>
+
